@@ -1,0 +1,6 @@
+int
+char
+int
+int
+break
+return
